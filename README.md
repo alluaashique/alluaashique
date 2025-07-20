@@ -2,7 +2,7 @@
 <h3 align="center">💻 PHP & Laravel Developer | 🧠 Problem Solver | 🌱 Tech Explorer | ⚙️ Backend Enthusiast</h3>
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/aashiqueshahab7" target="_blank">
+  <a href="https://www.linkedin.com/in/aashique-shahab7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammed%20Ashik%20S-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **dedicated Laravel developer** with over 3+ years of experience crafting robust, scalable, and secure web applications. My journey in tech began with a strong foundation in PHP and has since evolved into building modern backend solutions using Laravel, RESTful APIs, and MySQL.
+I'm a **dedicated Laravel developer** with over 3 years of experience crafting robust, scalable, and secure web applications. My journey in tech began with a strong foundation in PHP and has since evolved into building modern backend solutions using Laravel, RESTful APIs, and MySQL.
 
 I have a deep appreciation for clean architecture and well-structured code, and I take pride in developing applications that are both user-friendly and developer-friendly. Whether it's debugging a complex issue, optimizing database queries, or designing API endpoints, I approach every challenge with curiosity and precision.
 
@@ -30,9 +30,9 @@ If you're working on something exciting or need a backend brain, I'm always open
 - 🔄 **Version Control** — Git, GitHub, Git Workflows  
 - 📦 **Code Maintenance** — Refactoring legacy codebases  
 - 👥 **Team Collaboration** — Agile sprints, code reviews, documentation  
-
----
 <!--
+---
+
 ### 💼 Experience Highlights
 
 **👨‍💻 Jr. Software Engineer**  
@@ -51,10 +51,10 @@ If you're working on something exciting or need a backend brain, I'm always open
 *Cyberia Softwares — Sep 2020 – Sep 2021*  
 - Created PHP/CodeIgniter apps and improved database logic  
 - Communicated with cross-functional teams for feature delivery  
-- Maintained software lifecycle and implemented best practices  
+- Maintained software lifecycle and implemented best practices 
+-->
 
 ---
--->
 
 ### 🧰 Tech Stack
 
@@ -72,11 +72,11 @@ If you're working on something exciting or need a backend brain, I'm always open
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedashiks&show_icons=true&theme=radical" alt="muhammedashiks" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alluaashique&show_icons=true&theme=radical" alt="alluaashique GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammedashiks&theme=radical" alt="muhammedashiks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alluaashique&theme=radical" alt="alluaashique GitHub streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedashiks&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alluaashique&layout=compact&theme=radical" alt="alluaashique top languages" />
 </p>
 
 ---
@@ -94,11 +94,11 @@ If you're working on something exciting or need a backend brain, I'm always open
 ### 🌐 Let's Connect
 
 📍 Based in Kerala, India  
-🔗 [linkedin.com/in/aashiqueshahab7](https://in.linkedin.com/in/aashiqueshahab7)
+🔗 [linkedin.com/in/aashique-shahab7](https://www.linkedin.com/in/aashique-shahab7/)
 
 ---
 
-> *“Code is poetry when written with purpose.”*
+> *“Code is poetry when written with purpose.”* <
 
 ---
 
