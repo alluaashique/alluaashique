@@ -98,7 +98,7 @@ If you're working on something exciting or need a backend brain, I'm always open
 
 ---
 
-> *“Code is poetry when written with purpose.”* <
+> *“Code is poetry when written with purpose.”*
 
 ---
 
