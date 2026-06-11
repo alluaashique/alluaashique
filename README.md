@@ -2,7 +2,7 @@
 <h3 align="center">💻 PHP & Laravel Developer | 🧠 Problem Solver | 🌱 Tech Explorer | ⚙️ Backend Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aashique-shahab7/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammedashiks/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammed%20Ashik%20S-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
@@ -11,11 +11,11 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **dedicated Laravel developer** with over 3 years of experience crafting robust, scalable, and secure web applications. My journey in tech began with a strong foundation in PHP and has since evolved into building modern backend solutions using Laravel, RESTful APIs, and MySQL.
+I'm a **Laravel developer** with **4+ years** of hands-on experience building, maintaining, and optimizing dynamic web applications. I specialize in RESTful API development, MVC architecture, and scalable backend solutions using modern PHP practices.
 
-I have a deep appreciation for clean architecture and well-structured code, and I take pride in developing applications that are both user-friendly and developer-friendly. Whether it's debugging a complex issue, optimizing database queries, or designing API endpoints, I approach every challenge with curiosity and precision.
+I have a deep appreciation for clean architecture and well-structured code — from integrating third-party services and payment gateways to tuning database performance and mentoring junior developers. Whether it's designing API endpoints, containerizing apps with Docker, or collaborating with front-end teams, I approach every challenge with curiosity and precision.
 
-I'm also a firm believer in continuous learning—currently exploring advanced Laravel ecosystem tools, real-time features using WebSockets, and expanding my skillset into Django.
+I'm passionate about writing clean, maintainable code and continuously improving application performance and system architecture. Currently exploring Django, real-time features with WebSockets, and advanced Laravel ecosystem tools.
 
 If you're working on something exciting or need a backend brain, I'm always open to collaborating!
 
@@ -23,49 +23,76 @@ If you're working on something exciting or need a backend brain, I'm always open
 
 ### 🚀 What I Do
 
-- 🔧 **Backend Development** — Core PHP, Laravel, RESTful APIs, OOP, MVC  
-- 🧩 **Database Design** — MySQL, optimization, Eloquent ORM  
-- 🛠️ **Code Architecture** — Clean code, SOLID principles, service layer design  
-- 🎯 **Problem Solving** — Logical debugging, scalable patterns  
-- 🔄 **Version Control** — Git, GitHub, Git Workflows  
-- 📦 **Code Maintenance** — Refactoring legacy codebases  
-- 👥 **Team Collaboration** — Agile sprints, code reviews, documentation  
-<!--
----
+- 🔧 **Backend Development** — PHP, Laravel, RESTful APIs, OOP, MVC  
+- 🧩 **Database Design** — MySQL, PostgreSQL, optimization, Eloquent ORM  
+- 🛠️ **Code Architecture** — Clean code, SOLID principles, service layer design, microservices  
+- 🔐 **Auth & Security** — JWT, OAuth 2.0, Laravel Sanctum, RBAC  
+- 🔌 **API Integration** — Third-party APIs, payment gateways, UPS shipping  
+- 🐳 **DevOps & Deployment** — Docker, Apache, Nginx, Linux  
+- 👥 **Team Collaboration** — Mentoring, code reviews, Agile sprints, documentation  
 
-### 💼 Experience Highlights
+---
+<!-- 
+### 💼 Experience
+
+**👨‍💻 Software Engineer**  
+*RayBlaze Global PVT LTD, Kinfra Film and IT Park — Dec 2024 – Present*  
+- Designed and maintained scalable web applications using Laravel, PHP, and MySQL  
+- Delivered high-quality software solutions aligned with client requirements  
+- Integrated third-party services and developed RESTful APIs  
+- Mentored junior developers and promoted coding best practices  
 
 **👨‍💻 Jr. Software Engineer**  
-*Zoondia, Technopark — Mar 2023 – Present*  
-- Developed and maintained scalable Laravel-based applications  
-- Built secure RESTful APIs and ensured backend performance  
-- Collaborated with cross-functional teams for sprint planning  
+*Zoondia, Technopark — Mar 2023 – Sep 2024*  
+- Developed and maintained Laravel applications with a focus on clean architecture  
+- Built robust REST APIs for seamless front-end and back-end communication  
+- Focused on performance tuning, application security, and scalability  
 
 **🛠️ Technical Specialist**  
-*Techzera Infologics — Aug 2022 – Feb 2023*  
-- Produced robust Laravel code following clean architecture  
-- Integrated APIs and resolved bottlenecks in application performance  
-- Troubleshot and debugged existing projects  
+*Techzera Infologics, Technopark — Aug 2022 – Feb 2023*  
+- Developed efficient Laravel-based applications per client specifications  
+- Designed optimized workflows and debugged existing software systems  
+- Adapted applications to meet new technologies and performance expectations  
 
 **👨‍🔧 Junior Developer**  
-*Cyberia Softwares — Sep 2020 – Sep 2021*  
-- Created PHP/CodeIgniter apps and improved database logic  
-- Communicated with cross-functional teams for feature delivery  
-- Maintained software lifecycle and implemented best practices 
--->
+*Cyberia Softwares, Technopark — Sep 2020 – Sep 2021*  
+- Built PHP and CodeIgniter applications focusing on stability and performance  
+- Maintained and improved legacy systems, including UI/UX enhancements  
+- Designed, tested, and updated databases and software functionality  
 
 ---
+
+### 🎓 Education
+
+**MSc. Computer Science**  
+*College of Applied Science, Kundara — Kerala University, 2020*
+
+---
+
+-->
 
 ### 🧰 Tech Stack
 
 **Languages & Frameworks**  
-`PHP` `Laravel` `CodeIgniter` `JavaScript` `HTML` `CSS`
+`PHP` `Laravel` `CodeIgniter` `Django` `Python` `JavaScript`
 
-**Database & Tools**  
-`MySQL` `Eloquent ORM` `Git` `REST APIs` `AJAX` `JSON` `jQuery` `Bootstrap`
+**Frontend**  
+`HTML5` `CSS3` `Bootstrap` `jQuery` `AJAX`
 
-**Core Concepts**  
-`MVC Architecture` `OOP Principles` `Database Optimization` `Security Best Practices` `Agile Methodology`
+**Database & ORM**  
+`MySQL` `PostgreSQL` `Mongo` `Eloquent ORM`
+
+**Architecture & APIs**  
+`MVC` `OOP` `SOLID Principles` `RESTful APIs` `Microservices` `JSON` `XML`
+
+**Auth & Security**  
+`JWT` `OAuth 2.0` `Laravel Sanctum` `RBAC`
+
+**DevOps & Tools**  
+`Docker` `Apache` `Nginx` `Linux` `Git` `GitHub` `GitLab` `Composer` `NPM` `Postman`
+
+**Real-Time & Integration**  
+`WebSockets` `Third-party APIs` `Payment Gateway` `UPS Shipping`
 
 ---
 
@@ -93,12 +120,12 @@ If you're working on something exciting or need a backend brain, I'm always open
 
 ### 🌐 Let's Connect
 
-📍 Based in Kerala, India  
-🔗 [linkedin.com/in/aashique-shahab7](https://www.linkedin.com/in/aashique-shahab7/)
+📍 Based in Kollam, Kerala, India  
+🔗 [linkedin.com/in/muhammedashiks](https://www.linkedin.com/in/muhammedashiks/)
 
 ---
 
-> *“Code is poetry when written with purpose.”*
+> *"Code is poetry when written with purpose."*
 
 ---
 
